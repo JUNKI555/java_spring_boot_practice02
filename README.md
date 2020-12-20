@@ -43,3 +43,21 @@
   - https://qiita.com/KevinFQ/items/a6d92ec7b32911e50ffe
 - 【Spring】@Autowired と @Component を使用した DI の基本 | 山崎屋の技術メモ
   - https://www.shookuro.com/entry/2016/08/09/175801
+
+## Spring Data REST Reference sources
+- Java + Spring Boot + PostgreSQL + Spring Data REST でREST API | 北山淳也 | zenn
+  - https://zenn.dev/junki555/articles/509003681bde8b
+- Spring JPA Data with REST と Lombokで恐ろしく簡単にREST APIを作成する。 | Qiita
+  - https://qiita.com/ukiuni@github/items/fb46680146c4cc8b5187
+- Spring Data RESTでのHTTPエンドポイントのカスタマイズ
+  - https://www.codeflow.site/ja/article/spring-data-rest-customize-http-endpoints
+- Spring Boot with Docker な開発環境を考える | tiqwablog
+  - https://blog.tiqwab.com/2017/03/21/docker-java.html
+- Tutorial | React.js and Spring Data REST | Spring
+  - https://spring.io/guides/tutorials/react-and-spring-data-rest/
+- Spring BootでSpring Data RESTを試す | abcdefg.....
+  - http://pppurple.hatenablog.com/entry/2017/03/06/221334
+- PostgreSQL＋JPAのIDカラムで「relation "hibernate_sequence" does not exist」となったときの対処 | Qiita
+  - https://qiita.com/phonypianist/items/07ce9dad37785c7cb892
+- sql - ERROR: permission denied for sequence cities_id_seq using Postgres | Stack Overflow
+  - https://stackoverflow.com/questions/9325017/error-permission-denied-for-sequence-cities-id-seq-using-postgres
