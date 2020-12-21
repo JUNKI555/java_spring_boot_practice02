@@ -3,6 +3,10 @@
 # Web API EndPoint
 - curl http://localhost:8080 -X GET
   - [{id:1,name:test}]
+- curl http://localhost:8080/users -X GET
+- curl http://localhost:8080/users -X POST -H "Content-Type:application/json" -d '{ "name":"foo" }'
+- curl http://localhost:8080/users -X POST -H "Content-Type:application/json" -d '{ "name":"bar" }'
+- curl http://localhost:8080/users/3 -X PUT -H "Content-Type:application/json" -d '{ "name":"baz" }'
 
 ## Reference sources
 - docker-compose 下で Java + Spring Boot + PostgreSQL (JPA編) | 北山淳也 | zenn
